@@ -17,7 +17,7 @@ El sistema funciona por consola y cuenta con un menú que permite al usuario sel
 - 2  Jesus Alexander Garcia Flores 
 - 3  Misael Yeremi Solis Sanchez 
 - 4  Dante Zosimo Alanya Molina
-- 5  nom 
+- 5  Romel Gaspar Cayo
 
 ## 3. Tecnologías utilizadas
 
